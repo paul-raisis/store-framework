@@ -13,7 +13,7 @@
 	},
 	"search-result-layout.desktop": {
 		"props": {
-			"paginations": "show-more",
+			"pagination": "show-more",
 			"preventRouteChange": true
 		},
 		"children": [
