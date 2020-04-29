@@ -60,7 +60,7 @@
 	},
 	"sku-selector": {
 		"props": {
-			"showValueForVariation": "image",
+			"showValueForVariation": "all",
 			"initialSelection": "empty"
 
 		}
