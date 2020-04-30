@@ -7,6 +7,7 @@
     },
     "image#landingbanner": {
         "props": {
+            "src": "https://appliancetheme.vteximg.com.br/arquivos/cozinha-about-us.png",
             "minWidth": "100%"
         }
     },
